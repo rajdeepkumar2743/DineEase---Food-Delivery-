@@ -47,7 +47,7 @@ class Login extends React.Component {
     return (
       <Grid container>
         <Grid item xs={7}>
-          <img className="image" alt="foodImage" src='https://i.pinimg.com/originals/b4/09/33/b40933bf361ec47c1835cae89398275d.jpg' />
+          <img className="image" alt="foodImage" src='https://images.freekaamaal.com/post_images/1606817930.jpg' />
         </Grid>
         <Grid item xs={5}>
           <div className="container">
